@@ -2,7 +2,7 @@
 
 ## Challenge
 
-For this challenge, you’re invited to build an insurance solution where Safe owners can deposit ETH on Compound and keep the received aETH in a saviour contract. When a Safe gets liquidated, the saviour should redeem ETH from compound and add it in the Safe.
+For this challenge, you’re invited to build an insurance solution where Safe owners can deposit ETH on Compound and keep the received cETH in a saviour contract. When a Safe gets liquidated, the saviour should redeem ETH from compound and add it in the Safe.
 
 ## Solution
 
